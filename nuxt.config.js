@@ -15,10 +15,10 @@ export default {
       { hid: 'keywors', name: 'keywords', content: '大分クラフトビール, Monkey Mountain, モンキーマウンテン, クラフトビール, ビール, ' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/monkey_logo.jpg' },
-      { rel: 'shortcut icon', sizes: '16x16', href: '/monkey_logo.jpg' },
-      { rel: 'apple-touch-icon', sizes: '192x192', href: '/monkey_logo.jpg' },
-      { rel: 'shortcut icon', sizes: '192x192', href: '/monkey_logo.jpg' }
+      { rel: 'icon', type: 'image/x-icon', href: './static/monkey_logo.jpg' },
+      { rel: 'shortcut icon', sizes: '16x16', href: './static/monkey_logo.jpg' },
+      { rel: 'apple-touch-icon', sizes: '192x192', href: './static//monkey_logo.jpg' },
+      { rel: 'shortcut icon', sizes: '192x192', href: './static/monkey_logo.jpg' }
     ]
   },
 

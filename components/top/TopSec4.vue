@@ -1,6 +1,6 @@
 <template>
   <div class="top-sec4">
-    <h3>BREWERY<img src="../../static/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
+    <h3>BREWERY<img src="@/assets/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
     <div class="container">
       <p>大分県大分市府内町にある私たちのビール醸造所</p>
       <nuxt-link to="/brewery">

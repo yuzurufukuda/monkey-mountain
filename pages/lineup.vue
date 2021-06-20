@@ -9,11 +9,11 @@
           </h1>
           <div class="lineup-sec">
             <h2>
-              <img src="../static/lineup/paleale.png" alt="Paile Ale">
+              <img src="@/assets/lineup/paleale.png" alt="Paile Ale">
               <span>ペールエール</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/pail-ale.png" alt="ペール エール"></p>
+              <p><img src="@/assets/lineup/pail-ale.png" alt="ペール エール"></p>
               <div>
                 <p>
                   シトラス、又は花のような香りを楽しめるビールです。<br>
@@ -43,11 +43,11 @@
           </div>
           <div class="lineup-sec2">
             <h2>
-              <img src="../static/lineup/barleywine.png" alt="Bare Wine">
+              <img src="@/assets/lineup/barleywine.png" alt="Bare Wine">
               <span>バーレイ&nbsp;&nbsp;ワイン</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/barley-wine.png" alt="バーレイワイン"></p>
+              <p><img src="@/assets/lineup/barley-wine.png" alt="バーレイワイン"></p>
               <div>
                 <p>
                   スモーキーな香りが漂う、とても濃厚で甘い希少なビールです。<br>
@@ -70,7 +70,7 @@
                       ボディ&nbsp;<span>●●●●●</span>
                     </p>
                   </div>
-                  <p><img src="../static/lineup/silver.png" alt="ジャパングレートビアアワード2020で銀賞を受賞"></p>
+                  <p><img src="@/assets/lineup/silver.png" alt="ジャパングレートビアアワード2020で銀賞を受賞"></p>
                 </div>
               </div>
             </div>
@@ -82,11 +82,11 @@
           </div>
           <div class="lineup-sec3">
             <h2>
-              <img src="../static/lineup/porter.png" alt="Poter">
+              <img src="@/assets/lineup/porter.png" alt="Poter">
               <span>ポーター</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/porter-img.png" alt="ポーター"></p>
+              <p><img src="@/assets/lineup/porter-img.png" alt="ポーター"></p>
               <div>
                 <p>
                   焦がしたコーヒーのような香りが特徴的です。<br>
@@ -109,7 +109,7 @@
                       ボディ&nbsp;<span>●●○○○</span>
                     </p>
                   </div>
-                  <p><img src="../static/lineup/national-Beer-Cup.png" alt="International Beer Cup 2020で銅賞を受賞。"></p>
+                  <p><img src="@/assets/lineup/national-Beer-Cup.png" alt="International Beer Cup 2020で銅賞を受賞。"></p>
                 </div>
               </div>
             </div>
@@ -121,11 +121,11 @@
           </div>
           <div class="lineup-sec4">
             <h2>
-              <img src="../static/lineup/indiapaleale.png" alt="India Pale Ale">
+              <img src="@/assets/lineup/indiapaleale.png" alt="India Pale Ale">
               <span>インディア&nbsp;&nbsp;ペール&nbsp;エール</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/barley-wine.png" alt="インディア ペール  エール"></p>
+              <p><img src="@/assets/lineup/barley-wine.png" alt="インディア ペール  エール"></p>
               <div>
                 <p>
                   ペールエールと同じ苦味ですが、凄まじいシトラスの香りを<br>
@@ -156,11 +156,11 @@
           </div>
           <div class="lineup-sec5">
             <h2>
-              <img src="../static/lineup/blondeale.png" alt="Blonde Ale">
+              <img src="@/assets/lineup/blondeale.png" alt="Blonde Ale">
               <span>ブロンド&nbsp;&nbsp;エール</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/blonde-ale.png" alt="ブロンド エール"></p>
+              <p><img src="@/assets/lineup/blonde-ale.png" alt="ブロンド エール"></p>
               <div>
                 <p>
                   お口に含んだ際、レモンのような香りを楽しめる<br>
@@ -190,11 +190,11 @@
           </div>
           <div class="lineup-sec6">
             <h2>
-              <img src="../static/lineup/redale.png" alt="Red Ale">
+              <img src="@/assets/lineup/redale.png" alt="Red Ale">
               <span>レッド&nbsp;&nbsp;エール</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/red-ale.png" alt="レッド エール"></p>
+              <p><img src="@/assets/lineup/red-ale.png" alt="レッド エール"></p>
               <div>
                 <p>
                   麦芽の味を楽しめるビールです。<br>
@@ -223,11 +223,11 @@
           </div>
           <div class="lineup-sec7">
             <h2>
-              <img src="../static/lineup/kabosgingerale.png" alt="Kabosu Ginger Ale">
+              <img src="@/assets/lineup/kabosgingerale.png" alt="Kabosu Ginger Ale">
               <span>カボス&nbsp;&nbsp;ジンジャー&nbsp;&nbsp;エール</span>
             </h2>
             <div class="beer-area">
-              <p><img src="../static/lineup/kabosu-ginger-ale.png" alt="カボスジンジャーエール"></p>
+              <p><img src="@/assets/lineup/kabosu-ginger-ale.png" alt="カボスジンジャーエール"></p>
               <div>
                 <p>
                   ジンジャーの香りと鼻から抜ける大分産のかぼすの香りが超絶!<br>

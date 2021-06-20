@@ -1,8 +1,8 @@
 <template>
   <div class="shop">
     <div class="container">
-      <h1><img src="../static/shop/logo.png" alt="Monkey Moutain ロゴ"></h1>
-      <p><img src="../static/shop/shop-img.png" alt="!マーク"></p>
+      <h1><img src="@/assets/shop/logo.png" alt="Monkey Moutain ロゴ"></h1>
+      <p><img src="@/assets/shop/shop-img.png" alt="!マーク"></p>
       <p>年齢確認</p>
       <p>
         当ストアはアルコールを販売しております。<br>

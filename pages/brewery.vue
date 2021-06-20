@@ -21,7 +21,7 @@
             </p>
           </div>
           <div class="brewery-sec2">
-            <p><img src="../static/brewery/tank.png" alt="ホットリンカータンク"></p>
+            <p><img src="@/assets/brewery/tank.png" alt="ホットリンカータンク"></p>
             <p>
               モンキーマウンテンでは、「ホットリカータンク」「マッシュタン」「ボイルケトル」<br>
               の3つのやかんで構成される醸造システムを使用しています。<br>
@@ -33,10 +33,10 @@
               全ての麦汁をボイルケトルに移した後、煮沸中にホップスを加えていきます。
             </p>
             <div>
-              <p><img src="../static/brewery/blueing.png" alt="マッシュタン"></p>
-              <p><img src="../static/brewery/culture.png" alt="ポップス"></p>
+              <p><img src="@/assets/brewery/blueing.png" alt="マッシュタン"></p>
+              <p><img src="@/assets/brewery/culture.png" alt="ポップス"></p>
             </div>
-            <p><img src="../static/brewery/blueing2.png" alt="マッシュタン"></p>
+            <p><img src="@/assets/brewery/blueing2.png" alt="マッシュタン"></p>
             <p>
               煮沸を終えた後、麦汁を適温25度以下まで冷却させ、
               発酵タンクに移していきます。<br>
@@ -50,7 +50,7 @@
           <div class="brewery-sec3">
             <p>
               醸造所内にて<br>Take Out<br>&<br>角打ち<br><span>OK</span>
-              <img src="../static/brewery/monkey-iilust.png" alt="Monkey Moutain イラスト">
+              <img src="@/assets/brewery/monkey-iilust.png" alt="Monkey Moutain イラスト">
             </p>
             <p>
               醸造所内にてビールの販売&角打ちをしています。<br>
@@ -58,8 +58,8 @@
               お気軽にお寄りください。
             </p>
             <div>
-              <p><img src="../static/brewery/room.png" alt="室内"></p>
-              <p><img src="../static/brewery/tap.png" alt="ビールサーバー"></p>
+              <p><img src="@/assets/brewery/room.png" alt="室内"></p>
+              <p><img src="@/assets/brewery/tap.png" alt="ビールサーバー"></p>
             </div>
           </div>
         </div>

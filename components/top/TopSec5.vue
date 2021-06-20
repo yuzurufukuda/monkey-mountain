@@ -1,6 +1,6 @@
 <template>
   <div class="top-sec5">
-    <h3>SHOP LIST<img src="../../static/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
+    <h3>SHOP LIST<img src="@/assets/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
     <div class="container">
       <p>モンキーマウンテンのビールが飲める、購入できるお店をご紹介。</p>
       <nuxt-link to="/shoplist">

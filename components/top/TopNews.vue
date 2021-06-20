@@ -2,7 +2,7 @@
   <div class="top-news">
     <h3 :key="category.id" class="top-sec2-title">
       {{ category.name }}
-      <img src="../../static/top/monkey-illust.png" alt="Mokey Mountain ロゴ">
+      <img src="@/assets/top/monkey-illust.png" alt="Mokey Mountain ロゴ">
     </h3>
     <div class="container">
       <div v-for="post in posts" :key="post.id" class="top-news-area">

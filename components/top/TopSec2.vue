@@ -1,6 +1,6 @@
 <template>
   <div class="top-sec2">
-    <h3>ONLINE SHOP<img src="../../static/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
+    <h3>ONLINE SHOP<img src="@/assets/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
     <div class="container">
       <p>瓶ビールをお買い求めの方はこちらから。セットになっているビールもあります。</p>
       <nuxt-link to="/shop">

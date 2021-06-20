@@ -1,6 +1,6 @@
 <template>
   <div class="top-sec3">
-    <h3>BEERS<img src="../../static/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
+    <h3>BEERS<img src="@/assets/top/monkey-illust.png" alt="Monkey Mountain ロゴ"></h3>
     <div class="container">
       <p>私たちのモンキーマウンテンのビールをご紹介</p>
       <nuxt-link to="/lineup">

@@ -3,7 +3,7 @@
     <nav class="pc">
       <div class="header-pc container">
         <div class="menu-pc">
-          <figure><a href=""><img src="../static/monkey_logo.jpg" alt="Monkey Moutain ロゴ"></a></figure>
+          <figure><a href=""><img src="@/assets/monkey_logo.jpg" alt="Monkey Moutain ロゴ"></a></figure>
           <p>
             <nuxt-link to="/">
               モンキーマウンテンとは？<span>About us</span>

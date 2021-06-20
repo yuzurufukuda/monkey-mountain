@@ -7,7 +7,7 @@
           <h1 class="under-h1">
             Story<br><span>モンキーマウンテン ストーリー</span>
           </h1>
-          <p><img src="../static/story/monkey.png" alt="Monkey Mountain イラスト"></p>
+          <p><img src="@/assets/story/monkey.png" alt="Monkey Mountain イラスト"></p>
           <div class="story-sec">
             <div>
               <div>
@@ -17,7 +17,7 @@
                   20歳を過ぎて工学部を卒業し半導体エンジニアとしてのキャリアをスタートさせた後、さまざまな醸造所を訪れて風味の異なる一杯を楽しむうちに、「いつかは自分の店を持ちたい」と思うようになり、独学で醸造の世界に足を踏み入れました。その後約20年にわたってオリジナルビールづくりを楽しみました。
                 </p>
               </div>
-              <p><img src="../static/story/hop.png" alt="ホップ"></p>
+              <p><img src="@/assets/story/hop.png" alt="ホップ"></p>
             </div>
             <div>
               <div>
@@ -27,7 +27,7 @@
                   醸造に厳しい規制があることを知らなかったのです。そこで、ビール醸造免許の取得を考えました。日本に来てからの10年間、私はクラフトビールを専門的に追求してきました。そしてある日、「自分の醸造所を持ちたい」という思いが止まらなくなり、ついに免許を取得することにしました。こうして私は、半導体技術者からビール醸造家へと転身したのです。
                 </p>
               </div>
-              <p><img src="../static/story/keggle.png" alt="釜"></p>
+              <p><img src="@/assets/story/keggle.png" alt="釜"></p>
             </div>
             <div>
               <div>
@@ -40,7 +40,7 @@
                   日本全国の人に私が醸造したビールをおいしく楽しく飲んでもらいたいと心から強く思っています。
                 </p>
               </div>
-              <p><img src="../static/story/story3.png" alt="ダレン氏"></p>
+              <p><img src="@/assets/story/story3.png" alt="ダレン氏"></p>
             </div>
           </div>
         </div>

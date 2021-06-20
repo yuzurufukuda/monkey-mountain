@@ -1,7 +1,7 @@
 <template>
   <div class="top-sec-bg">
     <div class="container">
-      <figure><img src="../../static/top/top-sec-logo.png" alt="Monkey Moutain ロゴ"></figure>
+      <figure><img src="@/assets/top/top-sec-logo.png" alt="Monkey Moutain ロゴ"></figure>
       <h2>モンキーマウンテンとは</h2>
       <p>
         アメリカノースウェストで醸造歴20年のダレン氏は、<br>

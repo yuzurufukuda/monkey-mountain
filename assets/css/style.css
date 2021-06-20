@@ -220,7 +220,7 @@ main{
   margin: 0 auto 80px;
 }
 .top-sec-bg{
-    background-image: url('../../static/top/top-bg@2x.jpg');
+    background-image: url('@/assets/top/top-bg@2x.jpg');
     background-size: 100% 100%;
     backface-visibility: hidden;
     image-rendering: -webkit-optimize-contrast;
@@ -289,19 +289,19 @@ main{
 }
 .top-sec2>div>a>div{
     padding-bottom: 180px;
-    background-image: url('../../static/top/top-sec@2x.png');
+    background-image: url('@/assets/top/top-sec@2x.png');
 }
 .top-sec3>div>a>div{
-    background-image: url('../../static/top/top-slide4.jpg');
+    background-image: url('@/assets/top/top-slide4.jpg');
     padding-bottom: 300px;
 }
 .top-sec4>div>a>div{
-    background-image: url('../../static/top/sec-top3.png');
+    background-image: url('@/assets/top/sec-top3.png');
     padding-bottom: 300px;
 }
 .top-sec5>div>a>div{
     padding-bottom: 211px;
-    background-image: url('../../static/top/top-sec4.png');
+    background-image: url('@/assets/top/top-sec4.png');
 }
 .big-title{
     line-height: 120px;
@@ -401,7 +401,7 @@ footer{
    filter: contrast(.5);
 }
 .brewery-sec{
-    background-image: url('../../static/brewery/monkeymountain.png');
+    background-image: url('@/assets/brewery/monkeymountain.png');
     background-size: 100% 100%;
     padding: 640px 0 247px;
     margin-bottom: 100px;
