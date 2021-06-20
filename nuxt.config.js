@@ -44,7 +44,8 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
-    '@nuxtjs/moment'
+    '@nuxtjs/moment',
+    '@aceforth/nuxt-optimized-images'
   ],
   moment: {
     // ここにオプションが記述できる
@@ -76,5 +77,8 @@ export default {
     google: {
       families: ['Noto+Sans+JP:300,400,500,700', 'Popins:300,400,500,600,700,800,900', 'Source+Sans+Pro:300,400,699,700,900']
     }
+  },
+  optimizedImages: {
+    optimizeImages: true
   }
 }
